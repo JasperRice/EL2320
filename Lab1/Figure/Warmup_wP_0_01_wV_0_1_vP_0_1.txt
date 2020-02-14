@@ -1,0 +1,2 @@
+Standard deviation of error in position (second half): 0.075916m
+Standard deviation of error in velocity (second half): 0.263859m/s
